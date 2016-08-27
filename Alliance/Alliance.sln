@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibEntityPersistence", "LibEntityPersistence\LibEntityPersistence.csproj", "{EF63E41A-87B8-406B-A689-81F9AE1887B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTests", "ProjectTests\ProjectTests.csproj", "{27D3EA0A-C193-443D-B387-9B5740394E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF63E41A-87B8-406B-A689-81F9AE1887B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF63E41A-87B8-406B-A689-81F9AE1887B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF63E41A-87B8-406B-A689-81F9AE1887B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF63E41A-87B8-406B-A689-81F9AE1887B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D3EA0A-C193-443D-B387-9B5740394E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D3EA0A-C193-443D-B387-9B5740394E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D3EA0A-C193-443D-B387-9B5740394E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D3EA0A-C193-443D-B387-9B5740394E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
